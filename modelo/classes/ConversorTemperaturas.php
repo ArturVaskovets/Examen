@@ -17,7 +17,7 @@ class ConversorTemperaturas
     function FarenheitToCelsius($farenheit)
     {
         if ($farenheit > 932)
-            return PHP_FLOAT_MAX;
+            return INF;
         else
             return ($farenheit - 32) * 5 / 9;
     }
