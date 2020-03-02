@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83062e6d-e149-4b88-ba3e-14871c32f3e0" name="Local" url="http://algoartur1.com">
+        <fileTransfer port="0" mountedRoot="E:\CURSO_S21AR_2019-2020\IAW\Projects\Composer" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
